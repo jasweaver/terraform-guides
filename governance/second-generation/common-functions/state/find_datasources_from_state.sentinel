@@ -1,5 +1,8 @@
 # Find all data sources of a specific type from all modules using the
 # tfstate import
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 find_datasources_from_state = func(type) {
 
   datasources = {}

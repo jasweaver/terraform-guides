@@ -2,6 +2,9 @@
 # proposed monthly cost that would be incurred if the current
 # plan were applied
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 ##### Imports #####
 
 import "tfrun"

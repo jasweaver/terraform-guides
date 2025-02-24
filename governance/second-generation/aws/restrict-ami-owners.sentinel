@@ -1,6 +1,9 @@
 # This policy uses the Sentinel tfstate import to restrict the owners set on
 # all instances of the aws_ami data source in all modules
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 ##### Imports #####
 import "tfstate"
 import "types"

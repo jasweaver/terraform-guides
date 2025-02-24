@@ -1,6 +1,9 @@
 # This policy prevents the use of prohibited datasources
 # using the tfconfig import
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 ##### Imports #####
 import "tfconfig"
 import "strings"

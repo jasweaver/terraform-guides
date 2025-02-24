@@ -2,6 +2,9 @@
 # the availability zones used by EC2 instances.
 # This can be used to restrict the region by only listing zones in one of them.
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 ##### Imports #####
 
 import "tfplan"

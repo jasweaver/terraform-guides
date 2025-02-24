@@ -1,6 +1,9 @@
 # This policy prevents any changes to resources that are not in
 # an allowed list
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 ##### Imports #####
 
 import "tfplan"

@@ -1,5 +1,8 @@
 # Find all variables using the tfconfig import
 # This returns a flat map of variables across all modules
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 find_variables_in_config = func() {
   variables = {}
 

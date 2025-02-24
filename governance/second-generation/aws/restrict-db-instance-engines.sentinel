@@ -1,6 +1,9 @@
 # This policy uses the Sentinel tfplan import to require that
 # all RDS database instances have engines from an allowed list
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 ##### Imports #####
 
 import "tfplan"

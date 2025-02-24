@@ -1,6 +1,9 @@
 # This policy uses the Sentinel tfplan import to require that all EC2 instances
 # have all mandatory tags.
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 # Note that the comparison is case-sensitive since AWS tags are case-sensitive.
 
 ##### Imports #####

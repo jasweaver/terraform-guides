@@ -2,6 +2,9 @@
 # root module are in the Private Module Registry (PMR) of a TFC
 # server and that no resources are created in the root module
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 #####Imports#####
 import "tfconfig"
 import "strings"

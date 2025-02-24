@@ -1,4 +1,7 @@
 # Find all providers aliases of given type using the tfconfig import
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 find_provider_aliases = func(type) {
 
   # We will find all provider aliases og given type from tfconfig,

@@ -1,4 +1,7 @@
 # Find all provisioners using the tfconfig import
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 find_all_provisioners = func() {
 
   provisioners = {}

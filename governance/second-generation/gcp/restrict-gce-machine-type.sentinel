@@ -1,6 +1,9 @@
 # This policy uses the Sentinel tfplan import to require that
 # all Google compute instances have machine types from an allowed list
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 ##### Imports #####
 
 import "tfplan"

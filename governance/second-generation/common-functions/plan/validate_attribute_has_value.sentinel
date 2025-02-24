@@ -1,5 +1,8 @@
 # Validate that all instances of a specified resource type being modified have
 # a specified top-level attribute with a given value
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 validate_attribute_has_value = func(type, attribute, value) {
 
   validated = true

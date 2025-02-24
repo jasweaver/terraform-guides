@@ -1,5 +1,8 @@
 # Find all datasources of specific type from all modules
 # using the tfconfig import
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 find_datasources_from_config = func(type) {
 
   datasources = {}

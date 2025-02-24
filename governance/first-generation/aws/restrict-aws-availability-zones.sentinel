@@ -2,6 +2,9 @@
 # or this policy will fail since the computed availability_zone is not available
 # to plan
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 import "tfplan"
 
 # Get all AWS instances from all modules

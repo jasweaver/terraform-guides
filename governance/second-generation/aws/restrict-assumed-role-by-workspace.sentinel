@@ -4,6 +4,9 @@
 # It assumes that the role_arn is either a hard-coded value or a reference
 # to a Terraform variable
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 #### Imports #####
 import "tfconfig"
 import "tfplan"

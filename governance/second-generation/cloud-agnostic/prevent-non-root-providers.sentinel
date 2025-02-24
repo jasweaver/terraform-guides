@@ -2,6 +2,9 @@
 # in non-root modules, aligning with the best practices given in:
 # https://www.terraform.io/docs/configuration/modules.html
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 ##### Imports #####
 import "tfconfig"
 import "strings"

@@ -1,5 +1,8 @@
 # This policy validates that all variables in all modules have descriptions
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 ##### Imports #####
 import "tfconfig"
 import "strings"

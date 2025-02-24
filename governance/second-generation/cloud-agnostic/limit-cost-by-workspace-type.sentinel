@@ -3,6 +3,9 @@
 # plan were applied, using different limits for different
 # workspaces based on their names.
 
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 ##### Imports #####
 
 import "tfrun"
