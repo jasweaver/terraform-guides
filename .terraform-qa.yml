@@ -1,0 +1,10 @@
+# Terraform QA Configuration - HIPAA Compliance
+compliance:
+  framework: "hipaa"
+  require_encryption: true
+  require_tags:
+    - Environment
+    - Owner
+    - PHI_Data
+  prohibit_public_access: true
+  require_logging: true
